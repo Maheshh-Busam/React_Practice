@@ -9,4 +9,4 @@ To run the projects or snippets locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-practice.git
+   git clone https://github.com/Maheshh-Busam/React_Practice
