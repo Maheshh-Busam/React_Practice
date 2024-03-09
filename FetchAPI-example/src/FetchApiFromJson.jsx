@@ -14,9 +14,6 @@ function FetchApiFromJson() {
     dispatch({ type: 'ADD_TO_CART', payload: product });
   };
 
-  console.log('Cart:', state.cart);
-  console.log('Count:', state.count);
-
 
   return (
     <>
