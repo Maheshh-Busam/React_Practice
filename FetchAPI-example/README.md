@@ -11,7 +11,7 @@ This project is a React application built using Vite that demonstrates fetching 
 ## Technologies Used
 
 - React
-- Vite
+- Vite  
 - CSS
 
 ## Setup
